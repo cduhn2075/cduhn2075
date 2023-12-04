@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cduhn2075
 - 👀 I’m interested in automation of all types and industries
-- 🌱 I’m currently learning django
+- 🌱 I’m currently running hard and fast in django
 - 💞️ I’m looking to collaborate on really anything I have been involved in many different industries
 - 📫 How to reach me @darthcraw on Telegram
 
